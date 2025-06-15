@@ -1,4 +1,5 @@
-React SPA: Home & Users List
+# React SPA: Home & Users List
+
 This is a simple Single Page Application (SPA) built with React. It demonstrates basic routing, fetching data from an external API, and styling with CSS.
 
 ------Project Structure------ /public └── index.html /src App.js App.css Home.js Users.js index.js
